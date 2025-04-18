@@ -14,7 +14,7 @@ A feature-rich, easy-to-use Discord bot for managing interactive giveaways. Buil
 
 ## Invite
 If you'd like to add **GiveawayBot** to your server, use the following link:<br>
-🔗 **https://giveawaybot-entry.onrender.com/**
+🔗 **[https://giveaway.bot/invite](https://discord.com/oauth2/authorize?client_id=1356864811803348992&scope=bot+applications.commands&permissions=2147829824)**
 
 ## Usage
 ### Commands  
