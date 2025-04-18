@@ -2,7 +2,7 @@
   <img src="GiveawayBoticon.jpg" alt="Bot Logo" width="200"/>
 </p>
 
-# Discord Giveaway Bot
+## GiveawayBot#0643
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue)
 ![Discord.py](https://img.shields.io/badge/discord.py-2.3+-blueviolet)
