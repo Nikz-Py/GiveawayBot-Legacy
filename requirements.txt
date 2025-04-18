@@ -1,0 +1,14 @@
+discord.py>=2.5.2
+python-dotenv
+flask
+nest-asyncio
+gunicorn
+flask-cors
+flask-sqlalchemy
+sqlalchemy
+flask-login
+flask-wtf
+oauthlib
+requests
+pytz
+aiohttp
